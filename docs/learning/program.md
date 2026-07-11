@@ -4,7 +4,7 @@
 
 培养方案在开学初会以PDF文件形式发送给学生， 学生亦可在浙大钉APP、浙江大学本科教学管理信息服务平台、[浙江大学本科生院办公网](https://zjuers.com/rd?url=https://bksy.zju.edu.cn/28309/list.htm&mode=1)等网站上自行搜索查阅。
 
-目前，浙大钉APP及教务系统已更新2025级培养方案，主体内容与2024级类似，与下文示例参考2024级机器人工程专业培养方案。
+目前，浙大钉APP及教务系统暂未更新2026级培养方案，下文示例参考[关于做好2026级本科专业培养方案调整工作的通知](https://bksy.zju.edu.cn/2026/0521/c28324a3165132/page.htm)和生命科学学院提交的2026级培养方案初稿，具体培养方案会在开学后公示。
 
 > 竺可桢学院中混合班、人文社科实验班、巴德年医学班的培养方案为个性化培养方案，由于实际实施中是一人一策，这里不展开介绍，相关同学可向竺可桢学院教学科或学长组了解。
 
@@ -14,17 +14,16 @@
 
 浙江大学对于每一专业均会制定相应的培养目标和毕业要求，如后页图所示。该目标和要求是学生学习成长的参考，但并非硬性指标。
 
-![Alt text](../assets/robot-1.webp)
+![Alt text](../assets/robot-1.png)
   
-### 主干课程、毕业学分、学制学位
+### 核心课程、毕业学分、学制学位
 
-![Alt text](../assets/robot-2.webp)
+![Alt text](../assets/robot-2.png)
 
-![Alt text](../assets/robot-3.webp)
 
 ### 专业核心课程
 
-专业主干课程是该专业最核心、最重要、最关键，但也往往是内容最多、难度最大的课程，同时也是每一位选择该专业的学生必须掌握的课程。
+专业核心课程是该专业最核心、最重要、最关键，但也往往是内容最多、难度最大的课程，同时也是每一位选择该专业的学生必须掌握的课程（部分学院保研会有加权）。
 
 ### 专业核心实践
 
@@ -42,7 +41,7 @@
 
 即在满足各项课程修读要求前提下，毕业需要修读的最低学分数。其中：
 
-- 158学分：第一课堂所有课程，包括正常理论和实践课程等需要修读的学分；
+- 142.5学分：第一课堂所有课程，包括正常理论和实践课程等需要修读的学分；
 - +8学分：第二课堂（+4）、第三课堂（+2）和第四课堂（+2）学分，可通过参加相关活动进行申请和认定，见[四课融通](./concepts.md/#_5)。
 
 ### 授予学位
@@ -52,6 +51,10 @@
 ### 学科专业类别与支撑学科
 
 该专业所属的学科类别和对应的一级学科。
+
+## 培养阶段课程结构图
+
+![Alt text](../assets/robot-3.png)
 
 ## 课程设置与学分分布
 
@@ -92,50 +95,117 @@
 
 大部分通识课程将在大一学年修读完成，少部分留待大二、大三学年修读。
 
-#### 思政类课程
+#### 思政类课程 14学分
 
 除港澳台生和留学生外，其余学生必须修读思政类课程，港澳台生及留学生需要用其他课程来置换该部分学分。思政类课程往往会直接预置（见“第五篇：选课系统”），包括：
 
-1. 形势与政策I、II（形策）；
-2. 思想道德与法治（思修，几年前名称为“思想道德修养与法治基础”）；
-3. 中国近现代史纲要（史纲）；
+1. 习近平新时代中国特色社会主义思想概论；
+2. 大学生思想文化素养（26级新开设）；
+3. 新时代实践教育（短学期，26级新开设）；
 4. 马克思主义基本原理（马原）；
-5. 毛泽东思想与中国特色社会主义理论体系概论（毛概）；
-6. 习近平新时代中国特色社会主义思想概论（习概）；
-7. 四史系列课程：包括中国改革开放史、新中国史、中国共产党历史、社会主义发展史，四选一修读。
+5. 中国共产党历史与理论（26级新开设）；
+6. 思政选修类课程：四史，包括中国改革开放史、新中国史、中国共产党历史、社会主义发展史，四选一修读。（由于学分改变，具体情况按培养方案最终版确定）
 
-#### 军体类课程
+#### 军体类课程 11.5学分
 
 包括军事类和体育类课程：
 
 1. 军训：见[军训](../military_training/time.md) ；
+2. 国家安全教育（26级新开设）；
 2. 军事理论：与军事相关的理论知识教育和国防安全教育，通常会预置；
-3. 体育课：2023级学生须修读6学期体育课（体育I~体育VI），自主选课；
+3. 体育课：2026级学生须修读6学期体育课（体育I~体育VI），自主选课；
 4. 体测与锻炼：各学年体质健康测试达标后可获得学分；
 
-#### 外语类
+#### 外语类 3-6学分
 
 ##### 外语课程
 
-外语课程以选课界面中提供的为准，学生可自主选择修读，完成6学分即可。大一新生将预置大学英语III或大学英语IV（简称大英三或大英四）。修读完大英三后可继续修读大英四，如果先修读的是大英四，修读完大英四后可以修读大英三。此外，也可以选择小语种课程。
+外语类课程实行阶梯式学分修读要求，根据学生英语能力由低到高划分为L1、L2、L3三个层次，最高6学分，实施方案见《外语类通识课程修读方法》，由学校统一设置（新政策）。
+26级前，具体需核实：修读完大英三后可继续修读大英四，如果先修读的是大英四，修读完大英四后可以修读大英三。此外，也可以选择小语种课程。
 
 > 外语类课程往往抢课困难，请谨慎退课。此外，涉及校区搬迁，尤其是需要搬迁至舟山校区的海洋学院学生，建议在大一、大二两学年内修满外语学分，否则跨校区修读极为不便。
 
-##### 英语水平测试
 
-简称“水测”。学生从大二学年开始可申请“英语水平测试”（高三学年修读外语为小语种的学生可申请小语种水平测试），测试包括听力、阅读、写作、口语等模块，达标后可获得1学分认定学分（两级制，不计绩点），达成以下任一条件可申请免测直接获得学分：
+#### 计算机类 2-5学分
 
-- 托福95分及以上；
-- 雅思7分及以上；
-- 六级各分项均合格，笔试550分及以上，口试B及以上（笔试、口试无需同次）
+与计算机及编程相关的课程，几乎每个专业都会有，但课程类别与要求不同
 
-#### 计算机类
+<table style="border-collapse: collapse; width: 100%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; border: 1px solid #d1d5db;">
+  <thead>
+    <tr style="background-color: #f3f4f6;">
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: left; font-weight: 600; width: 15%;">类别</th>
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: left; font-weight: 600; width: 10%;">课程号</th>
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: left; font-weight: 600; width: 20%;">课程名称</th>
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center; font-weight: 600; width: 8%;">学分</th>
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center; font-weight: 600; width: 10%;">周学时</th>
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: left; font-weight: 600; width: 12%;">建议学期</th>
+      <th style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: left; font-weight: 600; width: 25%;">课程说明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 程序语言类（三选一） -->
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center; font-weight: 500; background-color: #fafbfc;" rowspan="3">程序语言类课程<br>（三选一）</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1001G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">C程序设计基础及实验</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">4</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">3.0-2.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一秋冬</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">建议工科类（信息）专业设置</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1002G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">C程序设计基础</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">3</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2.0-2.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一秋冬/春夏</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1006G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">Python程序设计</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">3</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2.0-2.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一秋冬/春夏</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;"></td>
+    </tr>
 
-与计算机及编程相关的课程，几乎每个专业都会有，但课程类别与要求不同，例如
-
-- C程序设计基础和实验：主要面向信息类学生
-- 人工智能基础（A）：主要面向理工农医（非信息专业）学生
-- 人工智能基础（B）：主要面向人文社科专业学生
+    <!-- 人工智能基础（四选一） -->
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center; font-weight: 500; background-color: #fafbfc;" rowspan="4">人工智能基础课程<br>（四选一）</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1241G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">人工智能基础（A）</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2.0-0.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一春夏</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">需先修Python或C程，建议理工农医类专业</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1242G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">人工智能基础（B）</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2.0-0.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一春夏</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">需先修Python或C程，建议社会科学类专业</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1243G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">人工智能基础（C）</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2.0-0.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一秋冬/春夏</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">不需程序语言基础，建议人文艺术类专业</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">CS1244G</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">人工智能基础（D）</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px; text-align: center;">2.0-0.0</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">一秋冬/春夏</td>
+      <td style="border: 1px solid #d1d5db; padding: 12px 16px;">面向所有专业，不需编程和数学基础，聚焦大模型前沿技术</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 自然科学通识类
 
@@ -143,10 +213,10 @@
 
 #### 通识选修课程
 
-![Alt text](../assets/tongshiyaoqiu.webp)
+![Alt text](../assets/tongshiyaoqiu.png)
 
 学生可自主选择修读，要求至少修读10.5学分，且溢出学分中最多2学分可作为个性课程学分（见后文）。
-> 关于上图中“1）”的表述，通识核心课程在“课程类别”有标识。关于上图中“3）”的表述，指修读“两门”而非“两类各一门”，因此学生可在规定的同一类别中（如中华传统）选择两门课程修读。
+> 关于上图中“1）”的表述，通识核心课程在“课程类别”有标识。关于上图中“3）”的表述，指修读“两门”而非“两类各一门”，因此学生可在规定的同一类别中（如中华传统）选择两门课程修读。个别专业会放一些必修的通识选修，按照培养方案修读即可。
 
 ### 专业基础课
 
@@ -157,10 +227,6 @@
 #### 专业必修课程
 
 专业必修课则是学习专业的具体的、重要的知识的课程，相对专业基础课更为的具体与深入。
-
-#### 专业选修课程/专业方向课程
-
-专业选修课则是在专业必修课程的基础上，针对专业的不同方向进行开课，学生可根据专业方向选择或兴趣选择对应方向的课程学习。
 
 #### 实践教学环节
 
@@ -180,11 +246,13 @@
 
 #### 跨专业学习模块
 
-跨专业学习模块则允许学生修读其他专业的微辅修项目，修读完成可以获得微辅修证书。不足的学分可用专业课程学分替代，但此时无法获得辅修证书。
+微辅修+补够学分
+> 学生可修读其他院系开设的微辅修项目，修读完成后，可获得微辅修证书。若修读的微辅修项目要求学分不足15学分，不足部分可用本专业“专业基础课程”“专业课程”或“本专业进阶模块”中的课程补足。
 
 #### 学生自主修读模块 
 
 自主修读模块让学生根据自己的学业规划、职业规划，自主选择修读感兴趣的课程。
+> 包含本科课程、研究生课程或经认定的境内、外交流的课程。
 
 - 通识选修类特别说明
 
@@ -196,23 +264,35 @@
 如选择自主修读模块，一般会要**求至少修读一门跨专业课程**，目前对跨专业课程的认定要求必须是跨学院（系）修读“专业基础课程”或“专业课程”，且不在培养方案内。
 > 如：经济学院下设经济、金融、财政、国贸四个专业，经济学修读金融学的专业课，不能认定为跨专业修读，但可以认定为自主修读（如果这门课培养方案上没有的话）。
 
+
 ### 其他必修环节
 
-#### 创新创业类
+> 以下均为认定型学分，即若修读的某一门课程满足上述的课程要求，则除获得该课程原本的学分以外，自动认定获得上述类型课程的学分（该学分不计绩点，原课程学分计绩点）。同时，除劳育外，均为学分要求。
 
-与创新创业和学生职业生涯规划引导相关的课程，按照培养方案要求进行修读即可。
+#### 创新创业类 2学分
+
+与创新创业和学生职业生涯规划引导相关的课程，按本科生院公布的创新创业类课程清单修读。
 
 > 职业生涯规划课程往往比较难选上。
 
-#### 心理类课程
+#### 心理健康类课程 2学分
 
-24级开始，所有学生需要修读2学分心理健康类课程，按培养方案修读即可。
+按本科生院公布的心理健康类课程清单修读。
 
-#### 美育类、劳育类课程
+#### 美育类 2学分
 
-对学生审美与劳动能力的训练，按照培养方案正常修读即可。
+按本科生院公布的美育类课程清单修读。
 
-> 以上均为认定型学分，即若修读的某一门课程满足上述的课程要求，则除获得该课程原本的学分以外，自动认定获得上述类型课程的学分（该学分不计绩点，原课程学分计绩点）。
+> 可修读通识选修课程中的“文艺审美”类课程、“博雅技艺”类中艺术类课程、艺术类专业课程。
+
+> 美育课程往往非常难选上。
+
+#### 劳育类 32学时
+
+按本科生院公布的劳育类课程清单修读。
+
+> 可修读学校设置的公共劳动平台课程或院系开设的专业实践劳动课程。
+
 
 ### 二三四课堂
 
@@ -225,3 +305,7 @@
 ## 辅修
 
 详见“辅修”一节。
+
+## 育人目标总图
+
+展示整个课程核心体系
