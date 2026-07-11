@@ -135,6 +135,7 @@
 #### 自然科学通识类
 
 基础的自然科学学科课程，即“数理化生”等基础课及其配套实验课，如微积分、大学物理、有机化学等，各专业要求不同，但对大多数学生均十分重要，内容多、难度大。部分课程分若干学期开课，课程名称将按I、II、III进行标号。部分课程设置不同难度梯度，甲＞乙＞丙。
+不同层次课程修读和替换可以参考[浙江大学本科课程层次关系一览表 (2025级起)](https://zdbk.zju.edu.cn/jwglxt/xtgl/xwgl_ckXw.html?xwbh=446608874C259D66E0632AB3CA0A64FE&doType=save)和[浙江大学竺可桢学院本科课程层次关系一览表](https://zdbk.zju.edu.cn/jwglxt/xtgl/xwgl_ckXw.html?xwbh=44663AFDD367E0BAE0632AB3CA0AAAE8&doType=save)
 
 #### 通识选修课程
 
