@@ -95,37 +95,53 @@
 - 进一步细化已有章节，修正错误信息；
 - 继续与浙江大学求是学院开展合作，推出纸质版内容。
 
+### 2026年主要修订内容
+
+  2026年，新生指引的修订工作继续由CC98论坛编辑部主持开展，召集了编辑部部分成员及论坛热心用户共同修订。本次修订的主要内容包括：
+
+- 根据2025年军训情况，进一步完善军训部分内容；
+- 根据学校招生政策的调整，调整培养方案释读、转专业等部分内容；
+- 根据2026年相关通知、当前的校园环境，更新相应的内容；
+- 进一步细化已有章节，修正错误信息。
+
 ## 编委会与联系方式
+
+### 2026年编委会名单
+
+- 主编：[@马二马纯上](https://www.cc98.org/user/id/727719)
+- 编委：[@3200101971](https://www.cc98.org/user/id/648740)，[@Darcyyyyyy](https://www.cc98.org/user/id/770568)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)，[@TWWT](https://www.cc98.org/user/id/787828)，[@尘光](https://www.cc98.org/user/id/792280)，[@逐梦的猫猫](https://www.cc98.org/user/id/792237)
+- 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
+- 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
 
 ### 2025年编委会名单
 
 - 主编：[@Cu丶瞳](https://www.cc98.org/user/id/650455)
-- 编委：[@有只哗哗](https://www.cc98.org/user/id/741777)，[@3200101971](https://www.cc98.org/user/id/648740)，[@梦想天堂](https://www.cc98.org/user/id/763809)，[@因幡巡](https://www.cc98.org/user/id/761550)，[@莫聂](https://www.cc98.org/user/id/702596)，[@水晶镜影](https://www.cc98.org/user/id/763786)，[@distantOwl](https://www.cc98.org/user/id/650455)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)
+- 编委：[@有只哗哗](https://www.cc98.org/user/id/741777)，[@3200101971](https://www.cc98.org/user/id/648740)，[@梦想天堂](https://www.cc98.org/user/id/763809)，[@因幡巡](https://www.cc98.org/user/id/761550)，[@莫聂](https://www.cc98.org/user/id/702596)，[@水晶镜影](https://www.cc98.org/user/id/763786)，[@distantOwl](https://www.cc98.org/user/id/761564)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)
 - 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
 - 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
 
 ### 鸣谢
 
-- **感谢以下人员及单位对2021-2024年指引编撰与修订工作作出的贡献。**
+- **感谢以下人员及单位对2021-2026年指引编撰与修订工作作出的贡献。**
 
-	- **CC98论坛用户**（按年份及昵称首字母为序，部分用户可能有所遗漏，敬请谅解！）
+  	- **CC98论坛用户**（按年份及昵称首字母为序，部分用户可能有所遗漏，敬请谅解！）
   > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@马二马纯上、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06，刘同学
   
-	- 感谢原求是学院云峰学园主任**詹美燕老师**对2024年指引首次纸质化提供的建议与指导，感谢**刘永杰老师**对相关工作的具体联络与推进。
+  	- 感谢原求是学院云峰学园主任**詹美燕老师**对2024年指引首次纸质化提供的建议与指导，感谢**刘永杰老师**对相关工作的具体联络与推进。
 
-	- 感谢**第十九期校级NSEP项目团队**《本科新生指引的需求分析与优化方案研究》对指引修订提供的意见参考。
+  	- 感谢**第十九期校级NSEP项目团队**《本科新生指引的需求分析与优化方案研究》对指引修订提供的意见参考。
 
 - **感谢以下人员及单位对2025年指引编撰与修订工作作出的贡献。**
 
-	- 感谢求是学院云峰学园主任**朱杭老师**对新生指引纸质化提供的支持，感谢**周佳豪老师**对相关工作的具体联络与推进。 
+  	- 感谢求是学院云峰学园主任**朱杭老师**对新生指引纸质化提供的支持，感谢**周佳豪老师**对相关工作的具体联络与推进。 
 
-	- 感谢**浙江大学CC98论坛**对指引发布与传播提供的平台支持。
+  	- 感谢**浙江大学CC98论坛**对指引发布与传播提供的平台支持。
 
-	- 感谢**浙江大学求是学院**对2025年指引修订提供的信息支持及在审校工作中做出的贡献，感谢其对新生指引的纸质化推广工作。
+  	- 感谢**浙江大学求是学院**对2025年指引修订提供的信息支持及在审校工作中做出的贡献，感谢其对新生指引的纸质化推广工作。
 
 ### 联系方式
 
-- 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:ZJU_guidance@163.com)主编@Cu丶瞳，ZJU_guidance@163.com。也欢迎直接在github仓库中Pull Request！
+- 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在GitHub仓库中提出issue，或者直接CC98私信联系、[邮件联系](mailto:ZJU_guidance@163.com)主编[@马二马纯上](https://www.cc98.org/user/id/727719)，ZJU_guidance@163.com。也欢迎直接在GitHub仓库中Pull Request！
 
 - 如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](mailto:huangshaoqi@zju.edu.cn)@好神奇，huangshaoqi@zju.edu.cn
 
