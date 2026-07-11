@@ -24,7 +24,7 @@
 
 尧坤楼北侧是玉湖餐厅，一楼有东南亚风味自选餐厅（称重计价）和一些风味档口，二楼东侧为自选餐厅，西侧为风味餐厅，其中一楼门口常有一个机器人跳舞欢迎大家，在2024年夏季开业首日玉湖餐厅一楼非常火爆，欢迎各位前往探索。
 
-玉湖六幢的2，4，6楼，七幢的3，5楼有自习室；一楼均设有公共讨论区，有咖啡机、自动售货机；玉湖六幢一楼有古筝，七幢一楼有钢琴可供使用（记得不要打扰到同学休息噢）。
+玉湖6幢的2，4，6楼，7幢的3，5楼有自习室；1楼均设有公共讨论区，有咖啡机、自动售货机；玉湖3幢1楼有古筝，7幢1楼有钢琴可供使用（记得不要打扰到同学休息噢）。
 
 ## 特色活动
 
@@ -32,7 +32,13 @@
 - [新年晚会](https://mp.weixin.qq.com/s?search_click_id=8762184060472025515-1721633747908-3354346267&__biz=MzkyMzI4MTQwNw==&mid=2247506747&idx=1&sn=8cb869d1353af098a4382c62a491a12e&chksm=c1e5e9abf69260bdd52d1a7a85e22943d42ab4438af8236cfea0dc2aadb17cd6267dfc505f39&clicktime=1721633747&enterid=1721633747&subscene=0&ascene=65&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQZactYeE%2FNNFP%2BTL5Pa4QMhLhAQIE97dBBAEAAAAAAJK3Oquspd0AAAAOpnltbLcz9gKNyK89dVj0e0IeEukkhIVAoS4CFLAD%2Bdjhqx78YODOXINs5AEKcT%2F5KaAyhu0wBP%2F9FQFP04WeoBlw7XGsdwzRe3gFzveNA0Clm5zGTF540Be%2BWbljTz5lPp1uS6hfvVI%2BVTNOCpNsoGH8rHQx23b5aDjWjq3nqIAs6CgYPGuCQMIW6WZn6Gm8JxhmSvzno26Td2Mek%2F%2Fq5wiZ4SxgdHytx3zPcnGsj8qHd4BTXSOZ%2Ft1lXkUCierLeclvjtLkgfembw%3D%3D&pass_ticket=etm137gbvLqsaFkhiUc4IH25rt2nnbXUe%2FVT7OMwG5Ej%2BA959Ujh9Yj3STwAH%2F%2Bd&wx_header=3)
 - 由竺院各组织承办的多种活动，如“三好杯”系列体育比赛、草坪音乐会、毕业晚会、竺涯共语系列讲座等等，活动非常丰富，不一而足。
 
-## 相关公众号
+## 官方网站和公众号
+
+[竺可桢学院中文门户网](http://ckc.zju.edu.cn/)
+
+[竺可桢学院办公网](http://office.ckc.zju.edu.cn/)
+
+#### 公众号
 
 - 浙大竺院人
 - 竺院团学汇
