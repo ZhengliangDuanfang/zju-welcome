@@ -19,6 +19,5 @@
 
 选课咨询：
 
-教务处课程中心 ：电话：88206235、88206185 ；地址：紫金港校区东1B-121-1。
-
-学院（系）网址及联系方式：[https://www.zju.edu.cn/xywxw/list.htm。](https://www.zju.edu.cn/xywxw/list.htm%E3%80%82)
+- 教务处课程中心：电话：88206235、88206185 ；地址：紫金港校区东1B-121-1。
+- 学院（系）网址及联系方式：[https://www.zju.edu.cn/xywxw/list.htm](https://www.zju.edu.cn/xywxw/list.htm)。

@@ -91,7 +91,9 @@
 - 编委：[@有只哗哗](https://zjuers.com/rd?url=https://www.cc98.org/user/id/741777) ，[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740) ，[@梦想天堂](https://zjuers.com/rd?url=https://www.cc98.org/user/id/763809) ，[@因幡巡](https://zjuers.com/rd?url=https://www.cc98.org/user/id/761550) ，[@莫聂](https://zjuers.com/rd?url=https://www.cc98.org/user/id/702596) ，[@水晶镜影](https://zjuers.com/rd?url=https://www.cc98.org/user/id/763786) ，[@distantOwl](https://zjuers.com/rd?url=https://www.cc98.org/user/id/761564) ，[@孤木](https://zjuers.com/rd?url=https://www.cc98.org/user/id/732512) ，[@阿刀](https://zjuers.com/rd?url=https://www.cc98.org/user/id/735124)
 - 顾问：[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113)
 - 技术支持：[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590) ，[@zyz1z1](https://zjuers.com/rd?url=https://www.cc98.org/user/id/634438)
-  
+
+[2025年浙江大学本科新生指引正式发布](https://zjuers.com/rd?url=https://www.cc98.org/topic/6250228)
+
 修订的主要内容包括：
 
 - 根据2024年军训情况，大幅度调整和完善了军训部分内容；
@@ -141,7 +143,7 @@
 
 - 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在[GitHub仓库](https://github.com/kaixuanwang2003/zju-welcome/)中提出Issue，也可以直接CC98私信联系主编[@马二马纯上](https://zjuers.com/rd?url=https://www.cc98.org/user/id/727719) 或[发送邮件](mailto:ZJU_guidance@163.com)到 ZJU_guidance@163.com。也欢迎直接在[GitHub仓库](https://github.com/kaixuanwang2003/zju-welcome/)中Pull Request！
 
-- 如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](mailto:huangshaoqi@zju.edu.cn)@好神奇，huangshaoqi@zju.edu.cn
+- 如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](mailto:huangshaoqi@zju.edu.cn)@好神奇 ，huangshaoqi@zju.edu.cn
 
 ## 版权声明
 
