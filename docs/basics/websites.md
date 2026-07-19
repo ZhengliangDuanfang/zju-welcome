@@ -53,7 +53,7 @@
 | [**浙江大学E校园电子地图平台**](https://map.zju.edu.cn/index)          | **浙江大学各校区电子地图**    |
 | [浙江大学计财处](http://cwcx.zju.edu.cn/WFManager/login.jsp)      | 个人奖补勤酬和报销等财务信息查询   |
 | [浙江大学收费平台](http://pay.zju.edu.cn/payment/login.jsp)        | 学费及其他相关费用缴纳        |
-| [网费管理](https://myvpn.zju.edu.cn)                           | 网费管理、邮箱别名设置        |
+| [浙大信息技术中心网站](https://myvpn.zju.edu.cn)                         | 网费缴纳与管理、邮箱别名设置        |
 | [校园卡服务大厅](https://ecard.zju.edu.cn/)                       | 查流水、挂失、解换绑、取消自动充值等 |
 | [个人服务中心](https://zjuam.zju.edu.cn/zjuam-main/)             | 统一身份认证管理           |
 | [云访浙大](https://720yun.com/t/84vksqfez2y?scene_id=48324019) | 720°VR校园全景         |

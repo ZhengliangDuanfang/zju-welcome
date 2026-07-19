@@ -4,7 +4,7 @@
 
 在选课期间，点击本科教学管理信息平台的选课管理-自主选课进入选课页面。
 
-关于本科生教务网的使用，推荐阅读@黎辉 前辈的帖子：[新生向教程：如何玩转新时代本科教学管理平台（本科教务网个人向使用指南）](https://zjuers.com/rd?url=https://www.cc98.org/topic/6241646 )
+关于本科生教务网的使用，推荐阅读[@黎辉](https://zjuers.com/rd?url=https://www.cc98.org/user/id/733441) 的帖子：[新生向教程：如何玩转新时代本科教学管理平台（本科教务网个人向使用指南）](https://zjuers.com/rd?url=https://www.cc98.org/topic/6241646 )
 
 ## 插件安装
 
@@ -12,7 +12,7 @@
 
 ### Lazuli -浙江大学教务系统增强插件
 
-[Lazuli](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1)由CC98论坛用户[@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666&mode=1)开发，安装指南详见其[文档与安装指南](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1)。
+[Lazuli](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1)由CC98论坛用户[@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666&mode=1) 开发，安装指南详见其[文档与安装指南](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1)。
 
 其中功能包括第三方老师评分数据插入、自动下拉、课程高亮、选课难度提示，极大地优化教务系统的使用体验。
 
@@ -26,7 +26,7 @@
 
 ### 学校网站体验增强脚本
 
-[脚本](https://zjuers.com/rd?url=https://www.cc98.org/topic/5439617&mode=1)由CC98论坛用户[@du33169](https://zjuers.com/rd?url=https://www.cc98.org/user/id/623451&mode=1)开发，这里是其[文档和安装指南](http://zjuwebx.pages.zjusct.io/#/)。
+[脚本](https://zjuers.com/rd?url=https://www.cc98.org/topic/5439617&mode=1)由CC98论坛用户[@du33169](https://zjuers.com/rd?url=https://www.cc98.org/user/id/623451&mode=1) 开发，这里是其[文档和安装指南](http://zjuwebx.pages.zjusct.io/#/)。
 
 这个脚本同时也改善了CC98论坛、学在浙大等的使用体验。
 
@@ -83,7 +83,7 @@
 - 当前课程表：红色课程表示待筛选，蓝色表示已选上，在该轮选课结束之后，教务网会自动进行随机筛选
 - 当前已选课程信息
 - 对于同一门课的不同教学班，通过拖动课程，可以调整志愿次序，同一门课最多选择3个志愿
-  > 调整志愿次序的操作可以确保自己选课的三个志愿“冲一冲、稳一稳、保一保”井然有序，或有概率成功更换预制课程的老师且没有“选不回来”的风险。
+  > 调整志愿次序的操作可以确保自己选课的三个志愿“冲一冲、稳一稳、保一保”井然有序。此外，该方法曾经有概率成功更换预制课程的老师且没有“选不回来”的风险，但近年似乎已经不能成功直接更换。
 
 ## 补选
 

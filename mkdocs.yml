@@ -1,4 +1,4 @@
-site_name: 2025年浙江大学本科新生指引
+site_name: 2026年浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 repo_name: zju-welcome
@@ -202,7 +202,7 @@ extra:
     - icon: material/forum
       link: https://www.cc98.org/topic/6250228
     - icon: fontawesome/solid/paper-plane
-      link: mailto:kaixuanwang@zju.edu.cn
+      link: mailto:ZJU_guidance@163.com
     - icon: simple/githubpages
       link: https://kaixuanwang2003.github.io/zju-welcome/
     - icon: material/web-check
