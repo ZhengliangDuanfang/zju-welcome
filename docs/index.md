@@ -45,33 +45,33 @@
 
 #### 2021年7月26日
 
-  CC98论坛用户@好神奇 个人撰写并发布首版指引《2021年浙江大学新生指引》，引起用户热烈反响，广受好评。
+  CC98论坛用户[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113) 个人撰写并发布首版指引《2021年浙江大学新生指引》，引起用户热烈反响，广受好评。
 
-  [2021年浙江大学新生指引（非官方，5.2W字吐血力作）](https://www.cc98.org/topic/5126732)
+  [2021年浙江大学新生指引（非官方，5.2W字吐血力作）](https://zjuers.com/rd?url=https://www.cc98.org/topic/5126732)
 
   首版指引为PDF版，共分7个章节，5.2万字。
 
 #### 2022年8月19日
 
-  @好神奇 在担任CC98论坛新生宝典版面版主期间，重新修订了《浙江大学2022年本科新生指引》，并于新生入学当天发布。
+  [@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113) 在担任CC98论坛新生宝典版面版主期间，重新修订了《浙江大学2022年本科新生指引》，并于新生入学当天发布。
 
-  [深夜重磅——浙江大学2022年本科生新生指引（CC98新生宝典版面出品）](https://www.cc98.org/topic/5392158)
+  [深夜重磅——浙江大学2022年本科生新生指引（CC98新生宝典版面出品）](https://zjuers.com/rd?url=https://www.cc98.org/topic/5392158)
 
   该版指引仍为PDF版，共约6.6万字。相较于上一版，调整了整体结构，优化了大量口语化表述，删减了夹带的私货，增加了校史文化等大量内容，并邀请CC98论坛编辑部画师设计封面。该版指引的修订也得到许多论坛用户的支持与参与。
 
 #### 2023年8月14日
 
-  因@好神奇 工作繁忙，用户@minifull 主动接替主持修订工作，并在CC98论坛热心网友的共同协助下，完善了指引内容，并将指引部署到网页上，发布《浙江大学2023年本科新生指引》网页版。
+  因[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113) 工作繁忙，用户[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590) 主动接替主持修订工作，并在CC98论坛热心网友的共同协助下，完善了指引内容，并将指引部署到网页上，发布《浙江大学2023年本科新生指引》网页版。
 
-  [2023浙大本科新生指引，现更以网页版呈现。](https://www.cc98.org/topic/5672880)
+  [2023浙大本科新生指引，现更以网页版呈现。](https://zjuers.com/rd?url=https://www.cc98.org/topic/5672880)
 
   网页版相较于PDF版，结合当时疫情防控新形势，重构了部分章节，修正了部分错误，并增加了海宁国际校区专题。
 
 #### 2024年7月25日
 
-  2024年，@好神奇 即将结束2+2辅导员工作，继续发起并主持指引修订工作。参与修订的编委包括：@好神奇，@adsr，@outofemo，@辰幻，@阿阿阿阿柒，@minifull，@3200101971，@Geniucker，@torsion，@zyz1z1。2024年修订后，指引主体内容臻于完善。
+  2024年，[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113) 即将结束2+2辅导员工作，继续发起并主持指引修订工作。参与修订的编委包括：[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113) ，[@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666) ，[@outofemo](https://zjuers.com/rd?url=https://www.cc98.org/user/id/704214) ，[@辰幻](https://zjuers.com/rd?url=https://www.cc98.org/user/id/706425) ，[@阿阿阿阿柒](https://zjuers.com/rd?url=https://www.cc98.org/user/id/681380) ，[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590) ，[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740) ，[@Geniucker](https://zjuers.com/rd?url=https://www.cc98.org/user/id/701516) ，[@torsion](https://zjuers.com/rd?url=https://www.cc98.org/user/id/724572) ，[@zyz1z1](https://zjuers.com/rd?url=https://www.cc98.org/user/id/634438)。2024年修订后，指引主体内容臻于完善。
 
-  [2024年浙江大学本科新生指引正式发布](https://www.cc98.org/topic/5947195)
+  [2024年浙江大学本科新生指引正式发布](https://zjuers.com/rd?url=https://www.cc98.org/topic/5947195)
 
   修订与工作推进内容主要包括：
   
@@ -83,9 +83,16 @@
 - 进一步细化已有章节，修正错误信息
 - 与浙江大学求是学院合作推出《指引》纸质宣传页，新生报到时面向全体求是学院大一新生发放
 
-### 2025年主要修订内容
+#### 2025年修订
 
-  2025年，新生指引的修订工作交由CC98论坛编辑部主持开展，召集了编辑部部分成员及论坛热心用户共同修订。本次修订的主要内容包括：
+2025年，新生指引的修订工作交由CC98论坛编辑部主持开展，召集了编辑部部分成员及论坛热心用户共同修订。编委会名单如下：
+
+- 主编：[@Cu丶瞳](https://zjuers.com/rd?url=https://www.cc98.org/user/id/650455)
+- 编委：[@有只哗哗](https://zjuers.com/rd?url=https://www.cc98.org/user/id/741777) ，[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740) ，[@梦想天堂](https://zjuers.com/rd?url=https://www.cc98.org/user/id/763809) ，[@因幡巡](https://zjuers.com/rd?url=https://www.cc98.org/user/id/761550) ，[@莫聂](https://zjuers.com/rd?url=https://www.cc98.org/user/id/702596) ，[@水晶镜影](https://zjuers.com/rd?url=https://www.cc98.org/user/id/763786) ，[@distantOwl](https://zjuers.com/rd?url=https://www.cc98.org/user/id/761564) ，[@孤木](https://zjuers.com/rd?url=https://www.cc98.org/user/id/732512) ，[@阿刀](https://zjuers.com/rd?url=https://www.cc98.org/user/id/735124)
+- 顾问：[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113)
+- 技术支持：[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590) ，[@zyz1z1](https://zjuers.com/rd?url=https://www.cc98.org/user/id/634438)
+  
+修订的主要内容包括：
 
 - 根据2024年军训情况，大幅度调整和完善了军训部分内容；
 - 根据学校文件的调整，调整了专业确认、转专业、二三四课堂等部分内容；
@@ -95,30 +102,21 @@
 - 进一步细化已有章节，修正错误信息；
 - 继续与浙江大学求是学院开展合作，推出纸质版内容。
 
-### 2026年主要修订内容
+#### 2026年修订
 
-  2026年，新生指引的修订工作继续由CC98论坛编辑部主持开展，召集了编辑部部分成员及论坛热心用户共同修订。本次修订的主要内容包括：
+2026年，新生指引的修订工作继续由CC98论坛编辑部主持开展，召集了编辑部部分成员及论坛热心用户共同修订。编委会名单如下：
+
+- 主编：[@马二马纯上](https://zjuers.com/rd?url=https://www.cc98.org/user/id/727719)
+- 编委：[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740) ，[@Darcyyyyyy](https://zjuers.com/rd?url=https://www.cc98.org/user/id/770568) ，[@孤木](https://zjuers.com/rd?url=https://www.cc98.org/user/id/732512) ，[@阿刀](https://zjuers.com/rd?url=https://www.cc98.org/user/id/735124) ，[@TWWT](https://zjuers.com/rd?url=https://www.cc98.org/user/id/787828) ，[@尘光](https://zjuers.com/rd?url=https://www.cc98.org/user/id/792280) ，[@逐梦的猫猫](https://zjuers.com/rd?url=https://www.cc98.org/user/id/792237) ，[@まひろ](https://zjuers.com/rd?url=https://www.cc98.org/user/id/788565)
+- 顾问：[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113)
+- 技术支持：[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590) ，[@zyz1z1](https://zjuers.com/rd?url=https://www.cc98.org/user/id/634438)
+
+修订的主要内容包括：
 
 - 根据2025年军训情况，进一步完善军训部分内容；
 - 根据学校招生政策的调整，调整培养方案释读、转专业等部分内容；
 - 根据2026年相关通知、当前的校园环境，更新相应的内容；
 - 进一步细化已有章节，修正错误信息。
-
-## 编委会与联系方式
-
-### 2026年编委会名单
-
-- 主编：[@马二马纯上](https://www.cc98.org/user/id/727719)
-- 编委：[@3200101971](https://www.cc98.org/user/id/648740)，[@Darcyyyyyy](https://www.cc98.org/user/id/770568)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)，[@TWWT](https://www.cc98.org/user/id/787828)，[@尘光](https://www.cc98.org/user/id/792280)，[@逐梦的猫猫](https://www.cc98.org/user/id/792237)，[@まひろ](https://www.cc98.org/user/id/788565)
-- 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
-- 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
-
-### 2025年编委会名单
-
-- 主编：[@Cu丶瞳](https://www.cc98.org/user/id/650455)
-- 编委：[@有只哗哗](https://www.cc98.org/user/id/741777)，[@3200101971](https://www.cc98.org/user/id/648740)，[@梦想天堂](https://www.cc98.org/user/id/763809)，[@因幡巡](https://www.cc98.org/user/id/761550)，[@莫聂](https://www.cc98.org/user/id/702596)，[@水晶镜影](https://www.cc98.org/user/id/763786)，[@distantOwl](https://www.cc98.org/user/id/761564)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)
-- 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
-- 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
 
 ### 鸣谢
 
@@ -141,13 +139,13 @@
 
 ### 联系方式
 
-- 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在GitHub仓库中提出issue，或者直接CC98私信联系、[邮件联系](mailto:ZJU_guidance@163.com)主编[@马二马纯上](https://www.cc98.org/user/id/727719)，ZJU_guidance@163.com。也欢迎直接在GitHub仓库中Pull Request！
+- 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在[GitHub仓库](https://github.com/kaixuanwang2003/zju-welcome/)中提出Issue，也可以直接CC98私信联系主编[@马二马纯上](https://zjuers.com/rd?url=https://www.cc98.org/user/id/727719) 或[发送邮件](mailto:ZJU_guidance@163.com)到 ZJU_guidance@163.com。也欢迎直接在[GitHub仓库](https://github.com/kaixuanwang2003/zju-welcome/)中Pull Request！
 
 - 如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](mailto:huangshaoqi@zju.edu.cn)@好神奇，huangshaoqi@zju.edu.cn
 
 ## 版权声明
 
-《浙江大学2025年本科新生指引》网页（下称“指引”）由指引编委会全体成员共同负责编撰、修订和部署，编委会对内容享有著作权，依据法律对本站点及站点内容享有的著作权及其他合法权益受法律保护。
+《浙江大学2026年本科新生指引》网页（下称“指引”）由指引编委会全体成员共同负责编撰、修订和部署，编委会对内容享有著作权，依据法律对本站点及站点内容享有的著作权及其他合法权益受法律保护。
 
 我们允许所有使用者在遵守法律规定的前提下，对指引网页进行分享与传播，允许使用者在获得编委会授权情况下，在授权范围内对指引进行使用。但所有使用者不得篡改站点内素材内容，**未经授权不建议通过除网页/网址分享以外的形式（如截图、文字复制或摘录等）进行内容传播。** 严禁将指引的全部或部分内容提供给任何第三方用于教学研究以外的用途，**严禁任何牟利或变相牟利行为（包括利用指引资源为个人或组织账号/群组/平台引流等）** ，不得通过任何手段攻击本站点，不得损害编委会的知识产权及其他合法权益，对指引与站点的使用不得违反法律和行政法规的相关规定，不得有侵害编委会基本权益的其他行为。
 

@@ -115,7 +115,7 @@
 
 ![紫金港校园道路](../assets/campus_map/campus_roads.webp)
 
-上图标注点为浙江大学紫金港校区主要道路，由CC98用户[@Dreamerrrr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/730774&mode=1)制作。部分名称还未具体确定，后续可能更改。
+上图标注点为浙江大学紫金港校区主要道路，由CC98用户[@Dreamerrrr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/730774&mode=1) 制作。部分名称还未具体确定，后续可能更改。
 
 - 以西迁重要地点命名：天目山、建德、吉安、泰和、宜山、遵义等
 - 以重要人物命名：藕舫、迪臣、飘萍等

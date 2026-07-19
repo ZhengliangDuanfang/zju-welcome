@@ -4,7 +4,7 @@
 
 在选课期间，点击本科教学管理信息平台的选课管理-自主选课进入选课页面。
 
-关于本科生教务网的使用，推荐阅读@黎辉 前辈的帖子：[新生向教程：如何玩转新时代本科教学管理平台（本科教务网个人向使用指南）](https://zjuers.com/rd?url=https://www.cc98.org/topic/6241646 )
+关于本科生教务网的使用，推荐阅读[@黎辉](https://zjuers.com/rd?url=https://www.cc98.org/user/id/733441) 的帖子：[新生向教程：如何玩转新时代本科教学管理平台（本科教务网个人向使用指南）](https://zjuers.com/rd?url=https://www.cc98.org/topic/6241646 )
 
 ## 插件安装
 

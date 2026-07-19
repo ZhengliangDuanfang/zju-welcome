@@ -40,7 +40,7 @@
 - 报名辅修时需查阅辅修专业的“说明”文件，部分专业的文件中包含其对申请辅修的要求
 - 每个学生每学年仅能申请成功一个专业或项目
 
-可参考@goukameima的经验贴：
+可参考[@goukameima](https://zjuers.com/rd?url=https://www.cc98.org/user/id/714764) 的经验贴：
 [新生向教程：本科教务网使用指南辅修管理部分补充](https://zjuers.com/rd?url=https://www.cc98.org/topic/6242230)
 
 ### 竺可桢学院辅修班
