@@ -22,7 +22,7 @@
 - **园区：** 关于未来两年或更长时间你所生活的地方；
 - **CC98论坛：** CC98论坛攻略，同时收录了前辈们撰写的部分优质经验；
 - **海宁国际校区专题：** 海宁校区的同学可以 **[先戳这里](./haining/intro.md)**；
-- **港澳台生专题：** 港澳台籍同学可以 **[先戳这里](./HK_Macao_Taiwan/id.md)**。
+- **港澳台生专题：** 港澳台籍同学可以 **[先戳这里](./HK_Macao_Taiwan/prologue.md)**。
 
 建议同学们可以从头到尾看一遍，以全面了解未来在浙江大学的学习生活。有需要时，也可以在上方搜索框内输入关键词进行搜索，定向查找需要的内容，相信绝大多数问题都可以在这里得到解答。
 
@@ -102,7 +102,7 @@
 ### 2026年编委会名单
 
 - 主编：[@马二马纯上](https://www.cc98.org/user/id/727719)
-- 编委：[@3200101971](https://www.cc98.org/user/id/648740)，[@Darcyyyyyy](https://www.cc98.org/user/id/770568)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)，[@TWWT](https://www.cc98.org/user/id/787828)，[@尘光](https://www.cc98.org/user/id/792280)，[@逐梦的猫猫](https://www.cc98.org/user/id/792237)
+- 编委：[@3200101971](https://www.cc98.org/user/id/648740)，[@Darcyyyyyy](https://www.cc98.org/user/id/770568)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)，[@TWWT](https://www.cc98.org/user/id/787828)，[@尘光](https://www.cc98.org/user/id/792280)，[@逐梦的猫猫](https://www.cc98.org/user/id/792237)，[@まひろ](https://www.cc98.org/user/id/788565)
 - 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
 - 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
 

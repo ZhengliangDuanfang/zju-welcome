@@ -76,6 +76,7 @@ nav:
     - 网络服务: "life/network.md"
     - 饮食消费: "life/canteen.md"
     - 校园交通: "life/traffic.md"
+    - 校园安全与保卫处: "life/security.md"
     - 就医服务: "life/medical-treatment.md"
     - 图书馆: "life/library.md"
     - 场馆空间: "life/public_resources.md"
@@ -111,12 +112,14 @@ nav:
       - 社会实践: "haining/life/practice.md"
 
   - 港澳台生专题:
-    - 身份证件: "HK_Macao_Taiwan/id.md"
-    - 生活适应: "HK_Macao_Taiwan/livingatzju.md"
-    - 课程衔接与要求: "HK_Macao_Taiwan/specialcourses.md"
-    - 实践实习活动: "HK_Macao_Taiwan/practice.md"
-    - 升学就业: "HK_Macao_Taiwan/post-graduation.md"
-    - 认识祖国大好河山: "HK_Macao_Taiwan/traveling.md"
+    - 前言: "HK_Macao_Taiwan/prologue.md"
+    - 报到: "HK_Macao_Taiwan/register.md"
+    - 证卡办理与使用: "HK_Macao_Taiwan/basics.md"
+    - 生活: "HK_Macao_Taiwan/life.md"
+    - 学业: "HK_Macao_Taiwan/study.md"
+    - 活动和支持: "HK_Macao_Taiwan/activity-support.md"
+    - 升学和就业: "HK_Macao_Taiwan/post-graduation.md"
+    - 写在最后: "HK_Macao_Taiwan/epilogue.md"
   - CC98论坛:
     - CC98论坛使用攻略: "cc98/cc98.md"
     - CC98论坛经验精华贴遴选: "cc98/recommended.md"
