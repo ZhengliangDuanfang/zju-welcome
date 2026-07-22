@@ -1,8 +1,8 @@
 # 始业教育
 
-![始业教育1](../assets/始业教育1.jpg)
+![始业教育1](../assets/init_edu1.webp)
 
-![始业教育2](../assets/始业教育2.jpg)
+![始业教育2](../assets/init_edu2.webp)
 
 ## 班级组建
 
