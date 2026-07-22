@@ -156,6 +156,12 @@
 - 作者：[@Colamentos](https://zjuers.com/rd?url=https://www.cc98.org/user/id/731893) （已授权）
 - 导语：作为毕业要求，需要我们了解二三四课分的概念和获取途径，本文的信息量极为丰富。
 
+**[关于CET-6六级笔试、六级口试、免水测（英语水平测试）、免修研究生英语课程、直博英语要求、“三年有效期”、“五年有效期”的一个整理](https://zjuers.com/rd?url=https://www.cc98.org/topic/6451185&mode=1)**
+
+- 版面：新生宝典
+- 作者：[@Colamentos](https://zjuers.com/rd?url=https://www.cc98.org/user/id/731893) （已授权）
+- 导语：无论是仅仅想满足毕业条件，抑或是为了研究生阶段做准备，这篇帖子能带大家了解不少新的信息，对大家的大学外语考试的规划提供一点帮助。
+
 ## 生活、技能与兴趣
 
 **[PPT的打开方式——如何从0开始制作一张PPT](https://zjuers.com/rd?url=https://www.cc98.org/topic/5318556&mode=1)**
