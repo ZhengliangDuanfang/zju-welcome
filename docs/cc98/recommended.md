@@ -10,7 +10,9 @@
 - 时效性强，当前仍大部分适用
 - 对新生认识浙大及了解、适应、丰富大学生活有直接帮助
 
-所有主题帖均由论坛用户（帖主）独立创作，论坛用户对主题帖享有独立著作权。主题帖内容不可避免具有一定主观性，可能存在错误、疏漏或过时内容，请批判吸收。各主题帖观点不代表《指引》编委会立场。
+所有主题帖均由论坛用户（帖子作者）独立创作，论坛用户对主题帖享有独立著作权。主题帖内容不可避免具有一定主观性，可能存在错误、疏漏或过时内容，请批判吸收。各主题帖观点不代表《指引》编委会立场。
+
+2024年新生指引进行了第一次遴选，2026年进行第二次遴选收录，以下内容为合并后按类别进行的整理汇总。
 
 ---
 
@@ -28,23 +30,29 @@
 - 编者：[@我记得密码](https://zjuers.com/rd?url=https://www.cc98.org/user/id/632532) （已授权）
 - 导语：2021新生宝典版面的精华帖汇总，不少帖子还未失去时效性。
 
+**[2026年新生入学季·疑似骗局与不良推销合集——天黑路滑社会复杂，初来浙大切记防诈](https://zjuers.com/rd?url=https://www.cc98.org/topic/6577402&mode=1)**
+
+- 版面：新生宝典
+- 作者：[@驼绒](https://zjuers.com/rd?url=https://www.cc98.org/user/id/758114) （已授权）
+- 导语：汇集了在大学里常见的骗局，对于所有同学都有参考价值，再次提醒大家保护好个人财产安全。
+
 ## 认识浙大
 
 **[都知道竺老校长的两问，它的出处有人认真读过吗](https://zjuers.com/rd?url=https://www.cc98.org/topic/4926535&mode=1)**
 
-- 版面：似水流年
+- 版面：求是史话
 - 作者：[@拙石](https://zjuers.com/rd?url=https://www.cc98.org/user/id/556954)（已授权）
 - 导语：关于竺老两问出处的原文，十分建议每一位新生都读一读。
 
 **[浙江大学真的被誉为东方剑桥吗？](https://zjuers.com/rd?url=https://www.cc98.org/topic/5209585&mode=1)**
 
-- 版面：校园信息
+- 版面：求是史话
 - 作者：[@德莫克里](https://zjuers.com/rd?url=https://www.cc98.org/user/id/664005)（已授权）
 - 导语：关于“浙大被称为东方剑桥”校史的考据与补充，对于新生进一步了解浙大历史有很好的意义。
 
 **[大西区往事](https://zjuers.com/rd?url=https://www.cc98.org/topic/4909566&mode=1)**
 
-- 版面：似水流年
+- 版面：求是史话
 - 作者：[@ruanjy](https://zjuers.com/rd?url=https://www.cc98.org/user/id/506927) （暂未取得联系，作者已超过一年未登录98，侵删）
 - 导语：非常详细地介绍了早期紫金港校区大西区的建设过程，附有非常多的照片记录。
 
@@ -100,23 +108,17 @@
 - 编者：[@2019爱学习](https://zjuers.com/rd?url=https://www.cc98.org/user/id/624961) （已授权）
 - 导语：汇总了海量的课程学习资源，对于课程学习帮助极大。
 
-**[军训的那些事儿（个人经历+经验）](https://zjuers.com/rd?url=https://www.cc98.org/topic/5403188&mode=1)**
+**[“补短板”系列学习资源汇总总楼](https://zjuers.com/rd?url=https://www.cc98.org/topic/6415033&mode=1)**
 
-- 版面：新生宝典
-- 作者：[@御坂110号](https://zjuers.com/rd?url=https://www.cc98.org/user/id/700473) （已授权）
-- 导语：推荐还没军训的新生小朋友阅读，提前了解军训过程，做好心理准备。
+- 版面：学习天地
+- 编者：[@goukameima](https://zjuers.com/rd?url=https://www.cc98.org/user/id/714764) （已授权）
+- 导语：作为学习天地资源汇总楼的极大补充，分类别整理并弥补了部分学院系没有资源汇总楼的短板。
 
 **[【零基础小白向】大一同学如何写出大学第一篇论文？](https://zjuers.com/rd?url=https://www.cc98.org/topic/5700327&mode=1)**
 
 - 版面：学习天地
 - 作者：[@torsion](https://zjuers.com/rd?url=https://www.cc98.org/user/id/724572) （已授权）
 - 导语：面向没有论文写作经验、缺乏电脑使用经验的大一小白，专门用作方便大一新生朋友们完成人生第一篇大学论文。
-
-**[工科数理基础课的整合经验帖（内含微积分、线性代数、大学物理、概率论与数理统计、常微分方程、复变函数与积分变换）（补充标签：vjf、线代、大物、大雾、概统、常微分、复变）](https://zjuers.com/rd?url=https://www.cc98.org/topic/5963487&mode=1)**
-
-- 版面：学习天地
-- 作者：[@似飞鸿踏雪](https://zjuers.com/rd?url=https://www.cc98.org/user/id/762569) （已授权）
-- 导语：从一个大一新生角度总结了课程学习的经验，或许对你有用。
 
 **[非英专生和英语爱好者如何全方位提升自己的英语](https://zjuers.com/rd?url=https://www.cc98.org/topic/5482641&mode=1)**
 
@@ -147,6 +149,12 @@
 - 版面：求职广场
 - 作者：匿名（无法联系，侵删）
 - 导语：选调生这条路可能许多人并不知道，可以多多了解。
+
+**[二三四课分获取保姆级整理](https://zjuers.com/rd?url=https://www.cc98.org/topic/6534638&mode=1)**
+
+- 版面：校园信息
+- 作者：[@Colamentos](https://zjuers.com/rd?url=https://www.cc98.org/user/id/731893) （已授权）
+- 导语：作为毕业要求，需要我们了解二三四课分的概念和获取途径，本文的信息量极为丰富。
 
 ## 生活、技能与兴趣
 
@@ -195,7 +203,7 @@
 **[豆瓣 Top 250 movies on NexusHD](https://zjuers.com/rd?url=https://www.cc98.org/topic/5384048&mode=1)**
 
 - 版面：NexusHD
-- 编者：[@浪味仙贝](https://zjuers.com/rd?url=https://www.cc98.org/user/id/622501) （暂未联系上，侵删）
+- 编者：[@浪味仙贝](https://zjuers.com/rd?url=https://www.cc98.org/user/id/622501) （暂未取得联系，侵删）
 - 导语：250部N站免费电影资源汇总，电影爱好者的福音。
 
 **[大一全年志愿者经验贴（思政可看）（待后续大二更新）（志愿者、经验贴、小时数）](https://zjuers.com/rd?url=https://www.cc98.org/topic/5819421&mode=1)**
@@ -215,3 +223,30 @@
 - 版面：98网事
 - 作者：[@Cockney](https://zjuers.com/rd?url=https://www.cc98.org/user/id/732538) （已授权）
 - 导语：对于CC98校园论坛本身的研究，非常有趣。
+
+**[摄影指南：手把手教你零基础入门摄影](https://zjuers.com/rd?url=https://www.cc98.org/topic/6468456&mode=1)**
+
+- 版面：光影留痕
+- 作者：[@Zh_Ann_](https://zjuers.com/rd?url=https://www.cc98.org/user/id/632946) （已授权）
+- 导语：摄影的一些入门指南，对于纠结是否需要购买相机或想入坑摄影的朋友均有一定参考意义。
+
+**[我的一年健身踩坑与经验分享](https://zjuers.com/rd?url=https://www.cc98.org/topic/6468456&mode=1)**
+
+- 版面：体育运动
+- 作者：[@吼吼吼hhhh](https://zjuers.com/rd?url=https://www.cc98.org/user/id/707139) （已授权）
+- 导语：对于希望养成健身习惯锻炼身体的朋友有不少参考价值。
+
+**[紫金港观花报告◆索引](https://zjuers.com/rd?url=https://www.cc98.org/topic/6125088&mode=1)**
+
+- 版面：绿色心情
+- 作者：[@闽山苍翠](https://zjuers.com/rd?url=http://cc98.org/user/id/700407)（已授权）
+- 导语：希望通过此帖能帮助大家进一步认识学校，认识自然、理解自然、爱上自然，与自然和谐相处
+
+**[经验丨保姆级公共场地/场馆/教室借用和审核流程介绍](https://zjuers.com/rd?url=https://www.cc98.org/topic/6482830&mode=1)**
+
+- 版面：校园信息
+- 作者：[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740)（已授权）
+- 导语：办活动、开班会、小组讨论找场所……难免会用到的小知识。
+
+
+

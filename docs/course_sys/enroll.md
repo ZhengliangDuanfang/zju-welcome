@@ -2,7 +2,7 @@
 
 2026级第一轮选课时间：8月24日09:00-8月26日17:00
 
-选课平台：[本科教学管理信息服务平台](http://zdbk.zju.edu.cn/)
+选课平台：[本科教学管理信息服务平台（教务网）](http://zdbk.zju.edu.cn/)
 
 选课通知：
 
@@ -13,7 +13,7 @@
 | 第三轮 （秋学期开学初） | 另行通知      |            |          |
 | 第四轮 （冬学期开学初） |           |            |          |
 
-[关于2025级本科新生第一学年秋冬学期选课的通知](https://zdbk.zju.edu.cn/jwglxt/xtgl/xwck_ckLoginNews.html?xwbh=3C0F1A1F50FB50FAE0632AB3CA0AAAA3&doType=save)已经发布在本科生院官网。
+[关于2026级本科新生第一学年秋冬学期选课的通知](https://zdbk.zju.edu.cn/jwglxt/xtgl/xwck_ckLoginNews.html?xwbh=569D011381027E3FE06329B3CA0A448F)已经发布在教务网。
 
 **体育课需同时选专项技能课（如羽毛球、网球、排球等）和身体素质课。**
 

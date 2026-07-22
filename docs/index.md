@@ -109,7 +109,7 @@
 2026年，新生指引的修订工作继续由CC98论坛编辑部主持开展，召集了编辑部部分成员及论坛热心用户共同修订。编委会名单如下：
 
 - 主编：[@马二马纯上](https://zjuers.com/rd?url=https://www.cc98.org/user/id/727719)
-- 编委：[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740) ，[@Darcyyyyyy](https://zjuers.com/rd?url=https://www.cc98.org/user/id/770568) ，[@孤木](https://zjuers.com/rd?url=https://www.cc98.org/user/id/732512) ，[@阿刀](https://zjuers.com/rd?url=https://www.cc98.org/user/id/735124) ，[@TWWT](https://zjuers.com/rd?url=https://www.cc98.org/user/id/787828) ，[@尘光](https://zjuers.com/rd?url=https://www.cc98.org/user/id/792280) ，[@逐梦的猫猫](https://zjuers.com/rd?url=https://www.cc98.org/user/id/792237) ，[@まひろ](https://zjuers.com/rd?url=https://www.cc98.org/user/id/788565)
+- 编委：[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740) ，[@Darcyyyyyy](https://zjuers.com/rd?url=https://www.cc98.org/user/id/770568) ，[@孤木](https://zjuers.com/rd?url=https://www.cc98.org/user/id/732512) ，[@阿刀](https://zjuers.com/rd?url=https://www.cc98.org/user/id/735124) ，[@TWWT](https://zjuers.com/rd?url=https://www.cc98.org/user/id/787828) ，[@尘光](https://zjuers.com/rd?url=https://www.cc98.org/user/id/792280) ，[@逐梦的猫猫](https://zjuers.com/rd?url=https://www.cc98.org/user/id/792237) ，[@沉学的狗某](https://zjuers.com/rd?url=https://www.cc98.org/user/id/761661) ，[@まひろ](https://zjuers.com/rd?url=https://www.cc98.org/user/id/788565)
 - 顾问：[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113)
 - 技术支持：[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590) ，[@zyz1z1](https://zjuers.com/rd?url=https://www.cc98.org/user/id/634438)
 
@@ -125,11 +125,13 @@
 - **感谢以下人员及单位对2021-2026年指引编撰与修订工作作出的贡献。**
 
   	- **CC98论坛用户**（按年份及昵称首字母为序，部分用户可能有所遗漏，敬请谅解！）
-  > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@马二马纯上、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06，刘同学
+  > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭、@x10、@lire、@Ozart、@Shirley06、
+  > @caca99、@Quinn_dj、@Wei2508、@虚子乌有、@月蘅，
+  > 刘同学
   
   	- 感谢原求是学院云峰学园主任**詹美燕老师**对2024年指引首次纸质化提供的建议与指导，感谢**刘永杰老师**对相关工作的具体联络与推进。
 
-  	- 感谢**第十九期校级NSEP项目团队**《本科新生指引的需求分析与优化方案研究》对指引修订提供的意见参考。
+  	- 感谢**第十九期校级NSEP项目团队**《本科新生指引的需求分析与优化方案研究》、**第二十一期园级NSEP项目团队**《新生宝典的需求分析与优化方案研究》对指引修订提供的意见参考。
 
 - **感谢以下人员及单位对2025年指引编撰与修订工作作出的贡献。**
 
