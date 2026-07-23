@@ -32,7 +32,7 @@
 
 直接在手机应用商店搜索浙大体艺下载，安卓/鸿蒙系统可以通过下面的二维码扫码下载。
 
-![zhedatiyi](http://tyys.zju.edu.cn/wescms/sys/filebrowser/file.php?cmd=download&id=193568)
+![zhedatiyi](../assets/zdty_app_dnld.png)
 
 ### 浙大校园卡APP
 
